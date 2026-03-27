@@ -6,3 +6,10 @@ body {
 h1 {
   color: navy;
 }
+
+body {
+  background-image: url("Yandro-links-and-images/images/ChatGPT Image Mar 11, 2026, 09_09_40 PM.png");
+  background-size: cover;
+  background-attachment: fixed;
+  color: white; /* Making text white so it's readable over the image */
+}
